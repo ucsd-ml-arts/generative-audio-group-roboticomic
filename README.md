@@ -1,8 +1,7 @@
 # Project 3 Generative Audio
 
-Your Name, yourcontact@ucsd.edu
-
-(Your teammate's contact info, if appropriate)
+Roy Jara, rjara@ucsd.edu
+Elliott Lao, eylao@ucsd.edu
 
 ## Abstract
 
@@ -11,8 +10,12 @@ Include your abstract here. This should be one paragraph clearly describing your
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+- CharRNN
+- Tacotron2
+- Wavenet
+- training data 
+  - reddit + joke repository (URL: )
+  - Laugh Wav files from a Kaggle Competition https://www.kaggle.com/c/freesound-audio-tagging/data
 
 ## Code
 

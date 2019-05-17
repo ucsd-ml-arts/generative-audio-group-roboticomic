@@ -58,9 +58,12 @@ References to any papers, techniques, repositories you used:
 
 https://github.com/ibab/tensorflow-wavenet
 
-the ones included in the class repository
+As well as the ones included in the class repository
 
 - Blog posts:
+
 https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+
 https://www.kaggle.com/jiriroz/qa-jokes
+
 https://www.kaggle.com/c/freesound-audio-tagging/data

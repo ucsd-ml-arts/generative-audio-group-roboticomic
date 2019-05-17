@@ -14,7 +14,7 @@ Briefly describe the files that are included with your repository:
 - Tacotron2
 - Wavenet
 - training data 
-  - reddit + joke repository (URL: )
+  - reddit (r/oneliners) + joke repository (URL:https://www.kaggle.com/jiriroz/qa-jokes)
   - Laugh Wav files from a Kaggle Competition https://www.kaggle.com/c/freesound-audio-tagging/data
 
 ## Code
